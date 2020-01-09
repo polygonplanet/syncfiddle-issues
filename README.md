@@ -1,2 +1,3 @@
-# syncfiddle-issues
-SyncFiddle Issues: http://syncfiddle.net/
+# Issues
+SyncFiddle issues, bug reports or feature requests
+https://syncfiddle.net/
